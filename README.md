@@ -36,7 +36,7 @@
     </div>
 ```
 
-* Не закрываем (escape) void элементы (<br>, а не <br />, <input>, <img>, <meta>, <base>, <link>)
+* Не закрываем (escape) void элементы ('< br >', а не '< br />', '< input >', '< img >', '< meta >', '< base >', '< link >')
 
 <h3>Правила для CSS</h3>
 
